@@ -16,7 +16,7 @@
 
 ### :toolbox: Programming Languages:
 
-<div align="center">
+<div align="left">
   <img height="50" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img height="50" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img height="50" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
@@ -32,7 +32,7 @@
 
 ### Frameworks and Libraries:
 
-<div align="center">
+<div align="left">
   <img height="50" alt="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img height="50" alt="Symfony" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg">
   <img height="50" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
@@ -41,7 +41,7 @@
 
 ### Tools:
 
-<div align="center">
+<div align="left">
   <img height="50" alt="Gulp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
   <img height="50" alt="Grunt" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-plain-wordmark.svg">
   <img height="50" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
@@ -52,7 +52,7 @@
 
 ### Platforms:
 
-<div align="center">
+<div align="left">
   <img height="50" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
   <img height="50" alt="RedHat" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg">
   <img height="50" alt="CentOS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-plain-wordmark.svg">
