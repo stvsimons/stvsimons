@@ -17,49 +17,49 @@
 ### :toolbox: Programming Languages:
 
 <div align="left">
-  <img height="50" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img height="50" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img height="50" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img height="50" alt="Swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg">
-  <img height="50" alt="Objective-C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg">
-  <img height="50" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
-  <img height="50" alt="bash/shell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
-  <img height="50" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img height="50" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img height="50" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img height="50" alt="Lessc" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
+  <img height="50" alt="php" src="https://stevesimons.com/gh-diwbg.php?icon=php/php-plain.svg">
+  <img height="50" alt="javascript" src="https://stevesimons.com/gh-diwbg.php?icon=javascript/javascript-plain.svg">
+  <img height="50" alt="nodejs" src="https://stevesimons.com/gh-diwbg.php?icon=nodejs/nodejs-plain-wordmark.svg">
+  <img height="50" alt="Swift" src="https://stevesimons.com/gh-diwbg.php?icon=swift/swift-original-wordmark.svg">
+  <img height="50" alt="Objective-C" src="https://stevesimons.com/gh-diwbg.php?icon=objectivec/objectivec-plain.svg">
+  <img height="50" alt="python" src="https://stevesimons.com/gh-diwbg.php?icon=python/python-plain.svg">
+  <img height="50" alt="bash/shell" src="https://stevesimons.com/gh-diwbg.php?icon=bash/bash-plain.svg">
+  <img height="50" alt="HTML" src="https://stevesimons.com/gh-diwbg.php?icon=html5/html5-plain-wordmark.svg">
+  <img height="50" alt="CSS" src="https://stevesimons.com/gh-diwbg.php?icon=css3/css3-plain-wordmark.svg">
+  <img height="50" alt="Sass" src="https://stevesimons.com/gh-diwbg.php?icon=sass/sass-original.svg">
+  <img height="50" alt="Lessc" src="https://stevesimons.com/gh-diwbg.php?icon=less/less-plain-wordmark.svg">
 </div>
 
 ### Frameworks and Libraries:
 
 <div align="left">
-  <img height="50" alt="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-  <img height="50" alt="Symfony" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg">
-  <img height="50" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
-  <img height="50" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img height="50" alt="WordPress" src="https://stevesimons.com/gh-diwbg.php?icon=wordpress/wordpress-plain.svg">
+  <img height="50" alt="Symfony" src="https://stevesimons.com/gh-diwbg.php?icon=symfony/symfony-original-wordmark.svg">
+  <img height="50" alt="jQuery" src="https://stevesimons.com/gh-diwbg.php?icon=jquery/jquery-plain-wordmark.svg">
+  <img height="50" alt="Bootstrap" src="https://stevesimons.com/gh-diwbg.php?icon=bootstrap/bootstrap-plain-wordmark.svg">
 </div>
 
 ### Tools:
 
 <div align="left">
-  <img height="50" alt="Gulp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
-  <img height="50" alt="Grunt" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-plain-wordmark.svg">
-  <img height="50" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  <img height="50" alt="Subversion" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original-wordmark.svg">
-  <img height="50" alt="Composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-line-wordmark.svg">
-  <img height="50" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg">
+  <img height="50" alt="Gulp" src="https://stevesimons.com/gh-diwbg.php?icon=gulp/gulp-plain.svg">
+  <img height="50" alt="Grunt" src="https://stevesimons.com/gh-diwbg.php?icon=grunt/grunt-plain-wordmark.svg">
+  <img height="50" alt="Git" src="https://stevesimons.com/gh-diwbg.php?icon=git/git-plain-wordmark.svg">
+  <img height="50" alt="Subversion" src="https://stevesimons.com/gh-diwbg.php?icon=subversion/subversion-original-wordmark.svg">
+  <img height="50" alt="Composer" src="https://stevesimons.com/gh-diwbg.php?icon=composer/composer-line-wordmark.svg">
+  <img height="50" alt="Visual Studio Code" src="https://stevesimons.com/gh-diwbg.php?icon=vscode/vscode-plain-wordmark.svg">
 </div>
 
 ### Platforms:
 
 <div align="left">
-  <img height="50" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
-  <img height="50" alt="RedHat" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg">
-  <img height="50" alt="CentOS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-plain-wordmark.svg">
-  <img height="50" alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img height="50" alt="MacOS/iOS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
-  <img height="50" alt="Apache" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
-  <img height="50" alt="mysql/mariadb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+  <img height="50" alt="Linux" src="https://stevesimons.com/gh-diwbg.php?icon=linux/linux-plain.svg">
+  <img height="50" alt="RedHat" src="https://stevesimons.com/gh-diwbg.php?icon=redhat/redhat-plain-wordmark.svg">
+  <img height="50" alt="CentOS" src="https://stevesimons.com/gh-diwbg.php?icon=centos/centos-plain-wordmark.svg">
+  <img height="50" alt="Ubuntu" src="https://stevesimons.com/gh-diwbg.php?icon=ubuntu/ubuntu-plain-wordmark.svg">
+  <img height="50" alt="MacOS/iOS" src="https://stevesimons.com/gh-diwbg.php?icon=apple/apple-original.svg">
+  <img height="50" alt="Apache" src="https://stevesimons.com/gh-diwbg.php?icon=apache/apache-original-wordmark.svg">
+  <img height="50" alt="mysql/mariadb" src="https://stevesimons.com/gh-diwbg.php?icon=mysql/mysql-plain-wordmark.svg">
 </div>
 
 
